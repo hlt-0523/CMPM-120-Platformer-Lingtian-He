@@ -1,0 +1,92 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "platformer-level-1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Cynthia/Desktop/CMPM-120/PlatformImprovement/assets/platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.7702546296296295,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 398.2477933965348,
+                "y": 223.97907813010784
+            }
+        },
+        "C:/Users/Cynthia/Desktop/CMPM-120/PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/hlt/Desktop/CMPM120/CMPM-120-Game-3-Platformer-main/assets/Level 1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1750.6666666666665,
+                "y": 100.99999999999997
+            }
+        },
+        "C:/Users/hlt/Desktop/CMPM120/CMPM-120-Game-3-Platformer-main/assets/Level 1.tmx#monochrome_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/hlt/Desktop/CMPM120/CMPM-120-Game-3-Platformer-main/assets/Level 1.tmx#monochrome_tilemap_transparent_packed": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmj": {
+            "scale": 0.4855555555555555,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1078.146453089245,
+                "y": -64.8741418764302
+            }
+        },
+        "platformer-level-1.tmj#kenny_tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx": {
+            "scale": 0.4855555555555555,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1052.4027459954234,
+                "y": 656.979405034325
+            }
+        },
+        "platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Cynthia/Desktop/CMPM-120/PlatformImprovement/assets",
+    "last.imagePath": "C:/Users/hlt/Desktop/CMPM120/CMPM-120-Platformer Lingtian He/assets",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 40,
+    "openFiles": [
+        "platformer-level-1.tmx"
+    ],
+    "project": "platformer-level-1.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "platformer-level-1.tmx",
+        "platformer-level-1.tmj",
+        "C:/Users/hlt/Desktop/CMPM120/CMPM-120-Game-3-Platformer-main/assets/Level 1.tmx",
+        "C:/Users/Cynthia/Desktop/CMPM-120/PlatformImprovement/assets/platformer-level-1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
